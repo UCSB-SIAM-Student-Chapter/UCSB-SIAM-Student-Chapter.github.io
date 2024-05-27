@@ -1,5 +1,5 @@
 ---
-title: "Index"
+title: "Homepage"
 ---
 
-Test
+Welcome to the UCSB SIAM Student Chapter. We seek to facilitate an environment for interdisciplinary research and community at UCSB for our applied mathematics students, as well as students from other departments who are interested in applications of their field to applied and computational mathematics. We currently run a seminar on Mondays from 2-3pm in South Hall 6635, in which we collaborate and present on material we have collectively decided to study during the academic quarter. During Spring 2024, we are studying dynamical systems.

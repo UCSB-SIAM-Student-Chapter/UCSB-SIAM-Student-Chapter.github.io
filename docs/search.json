@@ -2,15 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Chapter Representatives",
     "section": "",
-    "text": "About this site"
+    "text": "##Officers\n\nPresident: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong\n\n##Faculty Mentor\n\nHector Ceniceros"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Index",
+    "title": "Homepage",
     "section": "",
-    "text": "Test"
+    "text": "Welcome to the UCSB SIAM Student Chapter. We seek to facilitate an environment for interdisciplinary research and community at UCSB for our applied mathematics students, as well as students from other departments who are interested in applications of their field to applied and computational mathematics. We currently run a seminar on Mondays from 2-3pm in South Hall 6635, in which we collaborate and present on material we have collectively decided to study during the academic quarter. During Spring 2024, we are studying dynamical systems."
+  },
+  {
+    "objectID": "ChapterReps.html",
+    "href": "ChapterReps.html",
+    "title": "Chapter Representatives",
+    "section": "",
+    "text": "President: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong"
+  },
+  {
+    "objectID": "ChapterReps.html#officers",
+    "href": "ChapterReps.html#officers",
+    "title": "Chapter Representatives",
+    "section": "",
+    "text": "President: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong"
+  },
+  {
+    "objectID": "ChapterReps.html#faculty-mentor",
+    "href": "ChapterReps.html#faculty-mentor",
+    "title": "Chapter Representatives",
+    "section": "Faculty Mentor",
+    "text": "Faculty Mentor\n\nHector Ceniceros"
   }
 ]
