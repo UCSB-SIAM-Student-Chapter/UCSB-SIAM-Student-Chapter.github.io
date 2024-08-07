@@ -2,12 +2,14 @@
 title: "Chapter Representatives"
 ---
 
+For inquiries, please reach out to our [chapter email](mailto:math-siam@ucsb.edu).
+
 ## Officers
 
-* President: Zach Wagner
-* Vice President: Djordje Nikolic
+* President: [Zach Wagner](https://zachwagner.github.io/)
+* Vice President: [Djordje Nikolic](https://nikolic-djordje.github.io/)
 * Treasurer: Christian Hong
 
 ## Faculty Mentor
 
-* Hector Ceniceros
+* [Hector Ceniceros](https://web.math.ucsb.edu/~hdc/)

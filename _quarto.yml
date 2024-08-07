@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - Schedule of Events.qmd
       - ChapterReps.qmd
+      - Join Chapter.qmd
 
 format:
   html:

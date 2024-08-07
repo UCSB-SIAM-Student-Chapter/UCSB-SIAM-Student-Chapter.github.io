@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Homepage",
     "section": "",
-    "text": "Welcome to the UCSB SIAM Student Chapter. We seek to facilitate an environment for interdisciplinary research and community at UCSB for our applied mathematics students, as well as students from other departments who are interested in applications of their field to applied and computational mathematics. We currently run a seminar on Mondays from 2-3pm in South Hall 6635, in which we collaborate and present on material we have collectively decided to study during the academic quarter. During Spring 2024, we are studying dynamical systems."
+    "text": "Welcome to the UCSB SIAM Student Chapter. We seek to facilitate an environment for interdisciplinary research and community at UCSB for our applied mathematics students, as well as students from other departments who are interested in applications of their field to applied and computational mathematics. We are currently planning events for the 2024-2025 academic year and will post a schedule before the start of Fall Quarte 2024. Students from all disciplines are welcome to attend all student chapter events. We welcome both undergraduate and graduate students.\n\nStatement of Inclusivity\nWe strongly encourage students from all backgrounds to participate in our seminar. We are dedicated to fostering an environment where all students, regardless of socioeconomic background, ethinicity, gender identity, and/or sexual orientation are welcome and encouraged to participate and provide their unique perspective on industrial and applied mathematical topics. If we can be of any help or if we can do anything to foster a more welcoming environment, please reach out to a chapter representative.\n\n\nJoin Our Chapter\nIf you are interested in joining our chapter events or learning more, please follow our instructions here."
   },
   {
     "objectID": "ChapterReps.html",
     "href": "ChapterReps.html",
     "title": "Chapter Representatives",
     "section": "",
-    "text": "President: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong"
+    "text": "For inquiries, please reach out to our chapter email."
   },
   {
     "objectID": "ChapterReps.html#officers",
     "href": "ChapterReps.html#officers",
     "title": "Chapter Representatives",
-    "section": "",
-    "text": "President: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong"
+    "section": "Officers",
+    "text": "Officers\n\nPresident: Zach Wagner\nVice President: Djordje Nikolic\nTreasurer: Christian Hong"
   },
   {
     "objectID": "ChapterReps.html#faculty-mentor",
@@ -33,5 +33,26 @@
     "title": "Chapter Representatives",
     "section": "Faculty Mentor",
     "text": "Faculty Mentor\n\nHector Ceniceros"
+  },
+  {
+    "objectID": "index.html#statement-of-inclusivity",
+    "href": "index.html#statement-of-inclusivity",
+    "title": "Homepage",
+    "section": "Statement of Inclusivity",
+    "text": "Statement of Inclusivity\nWe strongly encourage students from all backgrounds to participate in our seminar. We are dedicated to fostering an environment where all students, regardless of socioeconomic background, ethinicity, gender identity, and/or sexual orientation are welcome and encouraged to participate and provide their unique perspective on industrial and applied mathematical topics. If we can be of any help or if we can do anything to foster a more welcoming environment, please reach out to a chapter representative."
+  },
+  {
+    "objectID": "Join Chapter.html",
+    "href": "Join Chapter.html",
+    "title": "Join Chapter",
+    "section": "",
+    "text": "If you would like to join the chapter and get on our mailing list, please fill out this form.\nChapter members get free SIAM membership! Learn more about the benefits of SIAM membership here. Membership benefits include increased networking, discounts on conference registration and SIAM books, access to SIAM review, and more."
+  },
+  {
+    "objectID": "Schedule of Events.html",
+    "href": "Schedule of Events.html",
+    "title": "Schedule of Events",
+    "section": "",
+    "text": "We are currently planning the chapter events for the 2024-2025 academic year. Please check back here before the start of the Fall Quarter."
   }
 ]
