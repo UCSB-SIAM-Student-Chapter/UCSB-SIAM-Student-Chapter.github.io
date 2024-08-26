@@ -2,4 +2,17 @@
 title: "Schedule of Events"
 ---
 
-We are currently planning the chapter events for the 2024-2025 academic year. Please check back here before the start of the Fall Quarter. 
+We will hold our chapter kickoff event on September 30th, in which we will plan events for the rest of the quarter and schedule speakers. Our tentative plan is to discuss applications of optimal transport to computational physics, including theoretical ideas and development of some numerical software. This is subject to change based on our planning meeting. If you have any input on topics to discuss during the year, please attend the kickoff meeting!
+
+| Date | Speaker | Synopsis |
+| ---- | ---- | ---- |
+| 09/30 | N/A | Seminar Kickoff |
+| 10/07 | TBA | TBA |
+| 10/14 | TBA | TBA |
+| 10/21 | TBA | TBA |
+| 10/28 | TBA | TBA |
+| 11/04 | TBA | TBA |
+| 11/18 | TBA | TBA |
+| 11/25 | TBA | TBA |
+| 12/02 | TBA | TBA |
+| 12/09 | TBA | TBA |
